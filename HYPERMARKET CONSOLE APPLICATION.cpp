@@ -310,7 +310,7 @@ class linkedlist
     createlinkedlist(newnode15);
     Node * newnode16 = new Node("Shampoo",40,16);
     createlinkedlist(newnode16);
-    Node * newnode17 = new Node("Condoms",50,17);
+    Node * newnode17 = new Node("Wipes",30,17);
     createlinkedlist(newnode17);
     Node * newnode18 = new Node("Napkins",80,18);
     createlinkedlist(newnode18);
